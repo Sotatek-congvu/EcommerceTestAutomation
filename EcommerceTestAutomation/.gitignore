@@ -1,0 +1,24 @@
+﻿# .NET build output
+bin/
+obj/
+
+# Visual Studio temporary files
+*.user
+*.suo
+*.cache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Test reports and screenshots
+Reports/
+
+# IDE-specific files
+.vs/
+*.code-workspace
+
+# Other
+*.bak
+*.log
