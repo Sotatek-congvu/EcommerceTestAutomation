@@ -16,7 +16,7 @@ packages/
 Reports/
 
 # IDE-specific files
-.vs/
+vs/
 *.code-workspace
 
 # Other
