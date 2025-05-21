@@ -1,6 +1,7 @@
 ﻿# .NET build output
 bin/
 obj/
+../.vs/
 
 # Visual Studio temporary files
 *.user
@@ -16,9 +17,8 @@ packages/
 Reports/
 
 # IDE-specific files
-vs/
-*.code-workspace
 
+*.code-workspace
 # Other
 *.bak
 *.log
