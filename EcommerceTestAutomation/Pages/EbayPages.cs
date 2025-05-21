@@ -48,7 +48,6 @@ namespace EcommerceTestAutomation.Pages
                         {
                             Website = "eBay",
                             Name = nameElement.Text,
-                            Price = price,
                             Link = linkElement.GetAttribute("href")
                         });
                     }
